@@ -42,4 +42,4 @@ python main.py
 4. Чтобы остановить скрипт, нажмите ```Ctrl+C```.
 ### Требования
 - Python 3.10+
-- ОС: Windows, macOS, Linux
+- ОС: Windows
