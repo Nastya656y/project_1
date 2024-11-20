@@ -22,8 +22,8 @@ backup_script/
 ### Конфигурация
 ```json
 {
-    "directories_to_backup": ["D:/path/to/source1", "D:/path/to/source2"],
-    "backup_destination": "D:/path/to/destination",
+    "directories_to_backup": ["path/to/source1", "path/to/source2"],
+    "backup_destination": "path/to/destination",
     "backup_period": 3600,
     "log_level": "INFO"
 }
